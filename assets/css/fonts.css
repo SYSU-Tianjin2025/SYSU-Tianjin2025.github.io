@@ -22,3 +22,13 @@ h2 {
 h3 {
     font-size: 2.5rem;
   }
+
+
+blockquote{
+	margin:0 0 1rem 0;
+	padding:0 200px;
+	/* color:#808080; */
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+} 
